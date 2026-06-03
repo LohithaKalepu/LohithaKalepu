@@ -84,9 +84,7 @@ Interactive Dash/Plotly platform across **449 companies × 85 features** with dy
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LohithaKalepu&show_icons=true&theme=dark&bg_color=0d1117&title_color=a8d8ea&icon_color=a8d8ea&border_color=30363d)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LohithaKalepu&layout=compact&theme=dark&bg_color=0d1117&title_color=a8d8ea&border_color=30363d)
+![GitHub Streak](https://streak-stats.demolab.com?user=LohithaKalepu&theme=dark&background=0d1117&border=30363d&ring=a8d8ea&fire=a8d8ea&currStreakLabel=a8d8ea)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
