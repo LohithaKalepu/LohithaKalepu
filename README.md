@@ -84,8 +84,6 @@ Interactive Dash/Plotly platform across **449 companies × 85 features** with dy
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=LohithaKalepu&theme=dark&background=0d1117&border=30363d&ring=a8d8ea&fire=a8d8ea&currStreakLabel=a8d8ea)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
 </div>
