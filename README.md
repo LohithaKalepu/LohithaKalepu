@@ -71,7 +71,7 @@ Hybrid **TFT / CNN-LSTM / XGBoost** ensemble with NLP sentiment signals — impr
 Extended open-source pipeline (Whisper → Argos → Chatterbox TTS) with speaker diarization and a dynamic-programming global alignment optimizer. Achieved **0.976 intelligibility** score; resolved ARM/GPU Docker incompatibilities for hardware-free execution.
 
 ### 📊 NYSE Financial Analytics Dashboard
-[![View on Tableau Public](https://img.shields.io/badge/Tableau_Public-View_Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)]((https://public.tableau.com/app/profile/lohitha.kalepu/viz/2015NYSESP500FINANCIALDASHBOARD/Dashboard1))
+[![View on Tableau Public](https://img.shields.io/badge/Tableau_Public-View_Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/lohitha.kalepu/viz/2015NYSESP500FINANCIALDASHBOARD/Dashboard1)
 
 Interactive Dash/Plotly platform across **449 companies × 85 features** with dynamic metric switching and cross-filtered drilldowns designed for non-technical finance stakeholders.
 
