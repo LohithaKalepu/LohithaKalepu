@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Data Science student (Computing Track)** at **New Jersey Institute of Technology** (Albert Dorman Honors Scholar, GPA 3.47), graduating May 2027. I build ML systems that go beyond notebooks — from production tensor pipelines to multimodal AI annotation engines.
+I'm a **Data Science student (Computing Track)** at **New Jersey Institute of Technology** (Albert Dorman Honors College, Dean's Scholar), graduating May 2027. I build ML systems that go beyond notebooks — from production tensor pipelines to multimodal AI annotation engines.
 
 - 🔬 **AI Research Assistant** at NJIT × Princeton Plasma Physics Laboratory (PPPL)
 - 🚦 **ML Research Assistant** at NJIT — deep learning for infrastructure optimization
